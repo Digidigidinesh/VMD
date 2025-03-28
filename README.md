@@ -1,4 +1,4 @@
-Project
+project
 🌱 Automated Plant Watering System Project Banner
 
 A simple Streamlit-based application to simulate and manage plant watering automation, with data logging and dataset generation capabilities.
